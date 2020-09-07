@@ -1,3 +1,7 @@
+
+window.location.replace("https://cursos-astrologia.github.io/");
+    
+
 (function($){
 
   window.onload=()=>{

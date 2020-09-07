@@ -1,3 +1,4 @@
+window.location.replace("https://cursos-astrologia.github.io/");
 const layout =()=> {
 	$('#nav-container').append(`<div class="navbar-fixed">
       <nav class="primary-background " role="navigation">
